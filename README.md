@@ -1,1 +1,3 @@
 # electronic_card_management_system
+电子名片管理系统
+毕业设计
